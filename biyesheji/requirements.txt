@@ -1,4 +1,5 @@
-seaborn==0.13.2        # 与你本地版本一致
-matplotlib==3.10.0     # seaborn 依赖的底层库
-pandas==2.2.3          # 数据分析依赖
-numpy==2.2.2           # 数值计算基础库
+scikit-learn==1.6.1      # 与你本地版本一致
+numpy==2.2.2             # 必须匹配的底层库
+scipy==1.15.1            # scikit-learn 的核心依赖
+threadpoolctl==3.5.0      # 并行处理依赖
+joblib==1.4.2            # 模型持久化工具
