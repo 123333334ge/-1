@@ -1,3 +1,5 @@
 libgl1-mesa-glx
 libxrender1
 libfreetype6
+fonts-wqy-zenhei  # 文泉驿正黑字体
+fonts-noto-cjk     # Google Noto 中文字体
