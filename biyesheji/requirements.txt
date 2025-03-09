@@ -1,3 +1,4 @@
-matplotlib==3.10.0
-numpy==2.2.2
-pyparsing==3.2.1
+seaborn==0.13.2        # 与你本地版本一致
+matplotlib==3.10.0     # seaborn 依赖的底层库
+pandas==2.2.3          # 数据分析依赖
+numpy==2.2.2           # 数值计算基础库
