@@ -15,3 +15,5 @@ python-dateutil==2.9.0    # 日期处理工具[1](@ref)
 pillow==11.1.0            # 图像处理支持[1,4](@ref)
 pyparsing==3.2.1          # 语法解析依赖[1](@ref)
 tornado==6.4.2            # Web 服务器核心[2,6](@ref)
+
+imbalanced-learn==0.13.0   # PyPI 官方包名
